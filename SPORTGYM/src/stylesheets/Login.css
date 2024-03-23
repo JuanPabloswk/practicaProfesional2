@@ -12,6 +12,7 @@ h1 {
 
 section {
     background-color: #4ccd99;
+    opacity: 0.8;
     width: 28em;
     height: 24em;
     border-radius: 10%;
@@ -37,10 +38,11 @@ input {
     padding-left: 2.5em;
     padding-right: 2em;
     font-size: 1em;
+    outline: none;
 }
 
 input:hover {
-    background-color: rgb(158, 156, 167);
+    background-color: rgb(131, 129, 141);
     border: transparent;
 }
 
