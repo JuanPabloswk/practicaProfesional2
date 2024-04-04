@@ -1,5 +1,5 @@
 .menu {
-    background-color: antiquewhite;
+    background-color: rgb(255, 255, 255);
     height:  3em;
     width: 100%;
     display: flex;
@@ -7,14 +7,14 @@
 }
 
 .logo{
-    background-color: aquamarine;
+    background-color: rgb(255, 255, 255);
     height: 3em;
     width: 6em;
     padding: 0 1em;
 }
 
 .menu-botones{
-    background-color: aquamarine;
+    background-color: rgb(255, 255, 255);
     display: flex;
     gap: 1em;
     align-items: center;
@@ -24,5 +24,5 @@
 
 .menu-botones a {
     text-decoration: none;
-    color: white;
+    color: rgb(0, 0, 0);
 }

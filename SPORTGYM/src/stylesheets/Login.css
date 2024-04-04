@@ -46,7 +46,7 @@ input:hover {
     border: transparent;
 }
 
-button {
+section button {
     width: 45%;
     padding: 1em;
     background-color: rgb(255, 255, 255);
@@ -55,7 +55,7 @@ button {
     margin: 1.5em 0;
 }
 
-button:hover{
+section button:hover{
     background-color: black;
     color: white;
 }
