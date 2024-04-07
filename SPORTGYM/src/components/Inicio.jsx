@@ -17,6 +17,8 @@ export function Inicio ({user, setUser}) {
             <button onClick={handleLogout}>Cerrar sesion</button>
             <Planes />
             {/* aqui va el componente del footer */} 
+            {/* prueba */} 
+
         </div>
     )
 }

@@ -38,4 +38,7 @@ public class Productos {
     @Column(name="tipo")
     private String tipo;
 
+    public void setId(int idProductos) {
+        this.idProductos = idProductos;
+    }
 }
